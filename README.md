@@ -1,4 +1,14 @@
-# 🚀 Tugas Praktikum Pemrograman Mobile
+## 🚀 Tugas Praktikum Pemrograman Mobile
+
+---
+
+### 👤 Identitas
+- Nama   : Sheila Apriliani Putri
+- NIM    : 230605110005
+- Kelas  : Praktikum Mobile C
+
+---
+
 ## 📌 Deskripsi
 Repository ini berisi tugas praktikum Flutter yang bertujuan untuk memahami proses instalasi, konfigurasi, serta pengujian aplikasi Flutter sederhana.  
 Pada praktikum ini dibuat aplikasi dengan tampilan sederhana yang menampilkan teks pada **AppBar** dan **body** aplikasi.
